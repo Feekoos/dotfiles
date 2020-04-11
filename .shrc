@@ -26,8 +26,14 @@ set -o emacs
 alias h='fc -l'
 alias j=jobs
 alias m=$PAGER
-alias ll='ls -laFo'
-alias l='ls -l'
+alias ls='ls --color=auto'
+alias ll='ls -alFo'
+alias la='ls -A'
+alias l='ls -CF'
+alias grep='grep --color=auto'
+alias ..='cd ..'
+alias mv='mv -i'
+alias rm='rm -i'
 alias g='egrep -i'
  
 # # be paranoid
@@ -35,6 +41,10 @@ alias g='egrep -i'
 # alias mv='mv -i'
 # alias rm='rm -i'
 
+# EXPORTS
+# export EDITOR=vim
+# export PATH
+# export CLICOLOR=1
 
 # # set prompt: ``username@hostname$ '' 
  PS1="`whoami`@`hostname | sed 's/\..*//'`"
@@ -42,6 +52,8 @@ alias g='egrep -i'
  	0) PS1="${PS1}# ";;
  	*) PS1="${PS1}$ ";;
  esac
+
+# PS1='[\u@\h \W]\$ '
 
 # search path for cd(1)
 # CDPATH=:$HOME
