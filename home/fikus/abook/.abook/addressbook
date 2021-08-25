@@ -1,0 +1,3806 @@
+# abook addressbook file
+
+[format]
+program=abook
+version=0.6.1
+
+
+[0]
+name=24sata
+mobile=099 224 2424
+
+[1]
+name=A. K. Split
+mobile=060327777
+
+[2]
+name=A. K. Zadar
+
+[3]
+name=A. K. Zagreb
+
+[4]
+name=bjn Abramović
+mobile=0921010444
+
+[5]
+name=Adam
+mobile=+420 732 882 192
+
+[6]
+name=Adam Hager
+workphone=+49 631 4288028
+mobile=+49 1514 0003166
+
+[7]
+name=Adamović
+mobile=+385 98 951 3104
+
+[8]
+name=Aerodrom Split
+
+[9]
+name=Alen Marjančić
+mobile=0915163036
+
+[10]
+name=Alen Šimag
+email=shimzy27@gmail.com,ssimag@xnet.hr
+address=4 Ivana Stožira
+city=Zagreb
+zip=10000
+country=Croatia
+phone=+385 91 469 2069
+mobile=0915894402
+notes=<FDMID>9830431</FDMID>\n\n\nGender: Male
+anniversary=19850727
+
+[11]
+name=Allianz SOS
+mobile=+43 1 525036240
+
+[12]
+name=Allianz steta
+mobile=+385 99 531 8171
+
+[13]
+name=Alujević
+mobile=+385915612910
+
+[14]
+name=Amalia Božićek
+mobile=091 901 6636
+
+[15]
+name=Ana Lovrić
+mobile=+385 97 611 6450
+anniversary=--0715
+
+[16]
+name=Ana Pakšec
+mobile=+385 98 884 540
+
+[17]
+name=Ana Petrinjak
+email=ana.petrinjak@gmail.com
+mobile=‪+385 95 806 2816‬
+notes=Gender: Female
+anniversary=19860529
+
+[18]
+name=Ana Prenđa Lovrić
+mobile=+385 98 618 299
+anniversary=--1012
+
+[19]
+name=Ana Šestan
+mobile=0911871686
+
+[20]
+name=Ana Štule
+mobile=091 251 2228
+
+[21]
+name=Anamaria Ćurković
+email=curkovicanamaria@gmail.com
+mobile=+385992828247
+anniversary=--1006
+
+[22]
+name=Andrea Topić
+mobile=+385 91 640 0197
+
+[23]
+name=Andreas Duvnjak
+mobile=+385 91 565 1942
+
+[24]
+name=Andrej Tijan
+mobile=0958166302
+
+[25]
+name=Andrew Glegj
+mobile=091-537-9792
+
+[26]
+name=Andrija Čosić
+mobile=098 938 7913
+
+[27]
+name=Andrija Žarinac
+phone=091 728 5897
+mobile=+38598710335
+
+[28]
+name=Andrijana Gelo
+mobile=091 378 6125
+
+[29]
+name=Anita Domitrović
+email=adomitrovic@fpz.hr
+workphone=01 2457 727
+mobile=0989174110
+
+[30]
+name=Ankica
+mobile=+385 95 923 2050
+
+[31]
+name=Ante Brčić
+email=abrcic@morh.hr
+mobile=098 195 6900
+
+[32]
+name=Ante Ćenan
+mobile=098 661 805
+
+[33]
+name=Ante Franić
+email=ante.franic6@gmail.com
+mobile=+385915240258
+notes=y -->\n<Facebook></Facebook>\n</HTCDa
+
+[34]
+name=Ante Jović
+mobile=+385 99 202 3605
+notes=ZSS
+
+[35]
+name=Ante Jurić Kačunić
+mobile=095 432 2384
+notes=Prva policijska postaja Split
+
+[36]
+name=Ante Kutleša
+mobile=095 723 6217
+
+[37]
+name=Ante Milas
+mobile=099 527 0611
+
+[38]
+name=Ante Moto Expert
+
+[39]
+name=Ante Pecirep
+mobile=014649068
+notes= (odvjetnik protiv MORH)
+
+[40]
+name=Ante Plazibat
+phone=091-506-9951
+
+[41]
+name=Ante Smoljko
+mobile=+38598657725
+anniversary=19680916
+
+[42]
+name=Ante Vranjić
+address=81 Nova I
+city=Šibenik
+country=Croatia
+mobile=0917986882
+anniversary=19840403
+
+[43]
+name=Anthony Nelson
+email=tnelson1216@gmail.com
+
+[44]
+name=Antonela Marinov
+mobile=0997048179
+
+[45]
+name=Antonija Osojnik
+email=ina
+phone=+385 98 181 8415
+workphone=+385 97 660 4480
+
+[46]
+name=Antonija Trupinić
+address=112 Požeška
+city=Cernik
+country=Croatia
+mobile=0919482054
+anniversary=19840815
+
+[47]
+name=Antonio Knez
+mobile=+385 91 555 8470
+
+[48]
+name=Antonio Kovačić
+mobile=0955391616
+
+[49]
+name=Anze Devlin
+mobile=+386 31 817 625
+
+[50]
+name=Bare
+mobile=+385915170085
+
+[51]
+name=Batur
+mobile=+385 99 702 8284
+
+[52]
+name=Beach
+mobile=+49 175 4961425
+
+[53]
+name=Bebi
+mobile=0914621132
+
+[54]
+name=Bebić
+mobile=0915248587
+
+[55]
+name=Dr.Bencic
+
+[56]
+name=Berislav Držanić
+address=92 N. Plavnice
+city=Bjelovar
+country=Croatia
+mobile=+385 (98) 697241
+anniversary=19840128
+
+[57]
+name=Bilić
+mobile=+385 95 820 9870
+
+[58]
+name=BKPR
+
+[59]
+name=Blaće
+mobile=+385915123841
+
+[60]
+name=Bojan Bosnić
+mobile=+385 91 503 0148
+
+[61]
+name=Bon Bon
+mobile=+385970266266
+
+[62]
+name=Bonaca
+mobile=095 576 0185
+
+[63]
+name=Boris Bratusevac
+email=bbratusevac@hotmail.com
+mobile=+385 99 683 4605
+
+[64]
+name=Boris Marenci
+mobile=+385 91 251 1405
+
+[65]
+name=Boris Melvan
+mobile=+385917887728
+
+[66]
+name=Boris Panić
+workphone=2657
+mobile=+385 95 909 4153
+
+[67]
+name=Boris Rebić
+mobile=0959094626
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[68]
+name=Boris Vranješ
+mobile=+385 95 816 4959
+
+[69]
+name=Boško Jelinčić
+mobile=0919016262
+
+[70]
+name=Božena Pavlović
+mobile=0955353064
+anniversary=--0816
+
+[71]
+name=Božena Sanković
+workphone=012785531
+
+[72]
+name=Dr Bozidar Jovanovic
+
+[73]
+name=Božo Baturina
+mobile=0915665375
+notes=Mitsubishi Lovret Centar Split\n\n
+
+[74]
+name=Božo Kuduz
+email=bozo.kuduz@gmail.com
+mobile=0959050088
+notes=Gender: Male
+
+[75]
+name=Brandy Sande
+email=abalone324@aol.com
+
+[76]
+name=Branimir Šimunović
+mobile=095 846 0470
+
+[77]
+name=Branko
+mobile=+385 98 510 591
+
+[78]
+name=Branko Erceg
+mobile=091 506 3869
+
+[79]
+name=Branko Plazanić
+phone=098310232
+
+[80]
+name=Branko Prgomet
+email=bprgomet@gmail.com
+mobile=098790982
+notes=<sn></sn><FDMID>9830431</FDMID>\n\n
+
+[81]
+name=Branko Vukela
+mobile=+385 91 562 6368
+
+[82]
+name=Brdarić MUP
+mobile=+38598470367
+
+[83]
+name=Briggs
+mobile=+1 810-360-5701
+
+[84]
+name=Bruno Cifrek-Kolarić
+address=24c Miholići
+city=Zagreb
+zip=10000
+country=Croatia
+mobile=+385 (98) 9445863
+anniversary=19830922
+
+[85]
+name=Bruno Marković
+mobile=+385 97 606 4000
+
+[86]
+name=Bumbić
+mobile=+385 91 555 8619
+
+[87]
+name=Burazer
+mobile=+385 95 552 3322
+
+[88]
+name=Carnet
+workphone=+385 (800) 227638
+
+[89]
+name=Christina
+mobile=+1 850-708-2214
+
+[90]
+name=Ćobo Hidajet
+mobile=098 166 5677
+
+[91]
+name=Colin Quinn
+mobile=+49 1525 6601337
+notes=FSMC US
+
+[92]
+name=Constansiu Guzmao
+mobile=+351917608159 
+
+[93]
+name=Conty plus
+mobile=+385 91 613 3121
+
+[94]
+name=Ćorić
+
+[95]
+name=Cvitković Opslužništvo Vojarne Divulje
+mobile=098 908 8598
+
+[96]
+name=D-M market
+workphone=021316321
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[97]
+name=Dado Marković
+mobile=098 198 0908
+
+[98]
+name=Dalibor Filipović
+email=dafilipo@gmail.com
+mobile=+385911905994
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[99]
+name=Dalibor Ivelja
+email=dalibor.ivelja@gmail.com
+mobile=0989276138
+notes=Gender: Male
+
+[100]
+name=Damir Kirin
+email=damir_kirin@yahoo.co.uk
+mobile=091 522 7918
+
+[101]
+name=Damir Kubinčan
+mobile=+385 91 598 1199
+
+[102]
+name=Damir Kuliš
+
+[103]
+name=Damir Matković
+mobile=091 197 6888
+notes=Sudski vjestak za procjenu nekretnina
+
+[104]
+name=Damir Matković
+mobile=098 192 7595
+notes=ZT Bojna
+
+[105]
+name=Damir Romić
+mobile=091 553 3489
+
+[106]
+name=Damir Štević
+email=thesteva@yahoo.com
+address=28\nDonja Bebrina
+city=Slavonski Brod
+zip=35000
+country=Croatia
+phone=+385989475963
+anniversary=19851212
+
+[107]
+name=Danica Ivona Marić
+mobile=+385 95 864 7256
+notes=ID cards
+
+[108]
+name=Danijel Bašić
+mobile=+385 98 990 2546
+
+[109]
+name=Danijel Gavran
+mobile=098 982 1267
+
+[110]
+name=Danijel Grgat
+mobile=+385915669265
+
+[111]
+name=Danijel Marušić
+mobile=098 616 267
+
+[112]
+name=Danijel Zubčić
+mobile=+385 98 185 0100
+
+[113]
+name=Danu
+mobile=+373 694 81 620
+
+[114]
+name=Darinka Senjak
+phone=091 737 1649
+
+[115]
+name=Darinko Karamatic
+phone=+385 98 179 2626
+
+[116]
+name=Dario Copetti
+mobile=0915008973
+
+[117]
+name=Dario Jermol
+mobile=0912255529
+
+[118]
+name=Dario Muto Damjanović
+address=12 Dobriše Cesarića
+city=Vukovar
+zip=32000
+country=Croatia
+mobile=+385 (91) 7320686
+
+[119]
+name=Dario Rico Ercegović
+mobile=+385912223989
+
+[120]
+name=Dario Stjepović
+mobile=+385 95 827 2233
+
+[121]
+name=Darko Anić
+mobile=+385 98 981 9951
+
+[122]
+name=Darko Bartolić
+mobile=+385 98 767 652
+
+[123]
+name=Darko Bježančević
+mobile=098 609 889
+
+[124]
+name=Darko Brajković
+mobile=098 927 2465
+
+[125]
+name=Darko Dokman
+email=dokman.darko@gmail.com
+mobile=+385919885056
+notes=VOB
+
+[126]
+name=Darko Hrabar
+mobile=091 154 1271
+
+[127]
+name=Darko Maretić
+phone=097 678 7069
+mobile=‪+385 91 393 1380‬
+
+[128]
+name=Darko Štule
+mobile=091 593 0283
+
+[129]
+name=Darko Šumanovac
+mobile=098 725 075
+
+[130]
+name=Darko Vuković
+email=hotel@vila-garic.hr 
+mobile=098438097
+notes=Upravitelj hotela \"Villa Garić\"
+
+[131]
+name=Darren
+mobile=+49 1515 7014042
+notes=FSMC US
+
+[132]
+name=Davor Akrapović
+mobile=+385 95 590 0616
+
+[133]
+name=Davor Franjković
+email=davorf@fpz.hr
+
+[134]
+name=Davor Furčić
+email=davor_furcic@yahoo.com
+address=27a Rezine
+city=Lovran
+country=Croatia
+phone=+38551291617
+mobile=+385 (98) 644035
+notes=<FDMID>9830431</FDMID>\n\n\n
+anniversary=19850823
+
+[135]
+name=Davor Kata
+mobile=095 523 9041
+
+[136]
+name=Davor Lipovac
+email=davor.lipovac1@gmail.com
+mobile=+385 95 861 9668
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[137]
+name=Davor Mrgan
+address=160a\nBorovo
+city=Vukovar
+country=Croatia
+mobile=098829401
+anniversary=19840928
+
+[138]
+name=Davor Pandža
+workphone=023 358 033
+mobile=+385 92 118 5610
+
+[139]
+name=Davor Sesvete
+mobile=099 755 2699
+
+[140]
+name=Davor Vilušić
+mobile=098754572
+
+[141]
+name=Davorin Baranić
+mobile=+385 91 139 8980
+notes=SOD
+
+[142]
+name=DBiatch
+mobile=+385912546479
+
+[143]
+name=Deana Furčić
+mobile=+385915757217
+
+[144]
+name=Dejan Markač
+mobile=095 356 4002
+
+[145]
+name=Dejan Zenzerović
+mobile=091 515 3743
+
+[146]
+name=Dekorti
+mobile=+385 23 331 158
+
+[147]
+name=Delic mob
+mobile=+385 91 547 6720
+
+[148]
+name=Denis Buranji
+mobile=+385 98 985 5561
+
+[149]
+name=Denis Horvat
+phone=091-587-9817
+
+[150]
+name=Denis Kosor
+mobile=098 254 758
+
+[151]
+name=Denis Marasović
+mobile=+385 98 938 1885
+
+[152]
+name=Denis Smajo
+mobile=+385 98 612 121
+
+[153]
+name=DHL
+mobile=016651111
+
+[154]
+name=Dina Žižić
+mobile=+38598440066
+
+[155]
+name=DIP Divulje DUZS
+mobile=021798809
+
+[156]
+name=Divulje
+workphone=021 353 191
+mobile=021353002
+
+[157]
+name=Dobrila Primorac
+mobile=+385 98 478 378
+
+[158]
+name=Dojan Prenđa
+mobile=+385 95 198 4707
+anniversary=--0919
+
+[159]
+name=Dolores Tolić
+mobile=0959064504
+anniversary=19801123
+
+[160]
+name=Domagoj Ćulin
+email=domagoj.culin@st.t-com.hr
+mobile=0917972556
+
+[161]
+name=Dominik Ban
+mobile=+385 98 456 645
+
+[162]
+name=Doris Novak
+email=dnovak@fpz.hr,doris.novak@fpz.hr
+mobile=0915627901
+
+[163]
+name=Dragan Andrijević
+mobile=0959061134
+
+[164]
+name=Dragan Knežević
+mobile=+385989752922
+
+[165]
+name=Dragica Lukić
+mobile=+38763958852
+
+[166]
+name=Dragica Šerić
+mobile=098667766
+notes=<sn></sn>\n\n<HTCData><!-- Please do not modify -->\n<Facebook></Faceb
+
+[167]
+name=Draško Babić
+mobile=+385 91 220 6655
+
+[168]
+name=Drasko Talaja
+mobile=098 912 5350
+
+[169]
+name=Draž Pavlović
+mobile=+385 95 914 1690
+
+[170]
+name=Dražen Furdi
+mobile=099 332 0120
+
+[171]
+name=Dražen Pavleković
+address=35 Kuzminec
+city=Mihovljan
+country=Croatia
+mobile=0917627206
+anniversary=19850626
+
+[172]
+name=Dražen Pekar
+email=bigpeki@gmail.com
+address=23 Petra Krešimira IV
+city=Županja
+country=Croatia
+mobile=0981796704
+anniversary=19860717
+
+[173]
+name=Dražen Volarić
+workphone=091 339 2060
+mobile=0989922222
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+anniversary=19721127
+
+[174]
+name=Drew Martz
+mobile=+49 170 5584079
+notes=FSMC US
+
+[175]
+name=DU-MA Deck
+mobile=+385 92 285 9853
+
+[176]
+name=Dubravko Mamuza
+address=31A Kozinska ulica
+city=Kozinščak
+zip=10370
+mobile=+38598398100
+
+[177]
+name=Dubrovnik APT
+
+[178]
+name=Duje Voloder
+email=duje.voloder@gmail.com
+phone=+385921175209
+notes=Gender: Male
+
+[179]
+name=Durdica Perić
+phone=+385996829171
+
+[180]
+name=Đurđica Poljančić
+mobile=+385 91 557 6169
+
+[181]
+name=Đuro Ivelić
+address=Čevatovo 44b
+city=Babina Greda
+country=Croatia
+mobile=0981666907
+anniversary=19860206
+
+[182]
+name=Dušan Rister
+email=dusanrister@gmail.com
+mobile=+385 91 422 0530
+
+[183]
+name=Duško Plazonić
+mobile=091 197 4647
+
+[184]
+name=Dvd TRPANJ OLIVER
+mobile=098 970 4314
+
+[185]
+name=Edita Kondža, Cimerica
+mobile=0981863060
+
+[186]
+name=Eduard Jerković
+mobile=091 505 4071
+
+[187]
+name=Edvard Perković
+mobile=+385922410815
+
+[188]
+name=Elvis Mišić
+email=elvismisic@gmail.com
+mobile=0959117222
+
+[189]
+name=Ema Petričević
+email=ema.petricevic@ufzg.hr
+mobile=+385 98 923 4625
+
+[190]
+name=Enes Tatoo Prizren
+
+[191]
+name=Eric Adams
+mobile=+1 423-823-2932
+notes=FSMC US
+
+[192]
+name=Ernest Bazijanac
+email=ernest.bazijanac@fpz.hr,ebazijanac@fpz.hr
+mobile=098477102
+
+[193]
+name=Ernest Kovacevic
+mobile=+38598811080
+
+[194]
+name=ETH zapovjednik
+mobile=098 213 302
+
+[195]
+name=Evelin Tonković
+workphone=021547636
+mobile=098265161
+notes=Odvjetnik\n
+
+[196]
+name=Fabijanec
+workphone=01 3670 363
+
+[197]
+name=Fabijanić
+mobile=091 663 7877
+
+[198]
+name=Filip Milat
+mobile=091 773 3633
+
+[199]
+name=Petrinjak, Filip
+email=filip.petrinjak@gmail.com
+address=Fra Bone Razmilovića 5
+city=Split
+zip=21000
+country=Croatia
+mobile=+38598520737
+notes=<sn></sn>
+anniversary=19840726
+
+[200]
+name=Filip Vukelja
+mobile=+385981710675
+
+[201]
+name=Filipović Marko
+mobile=099 219 8196
+notes=Stan Miramarska\, pukovnik
+
+[202]
+name=Filko Kakić
+mobile=0915051599
+
+[203]
+name=Firule
+
+[204]
+name=kbb Flegar
+mobile=091 520 7485
+notes=RTOP 41\, HRM
+
+[205]
+name=FPZ
+notes=Croatia
+
+[206]
+name=Frane Franić
+mobile=098690831
+
+[207]
+name=Frane Vozac
+
+[208]
+name=Franjo Jurić
+mobile=+38598876025
+
+[209]
+name=Franjo Mrkša
+address=252 Dubrava
+city=Zagreb
+zip=10040
+country=Croatia
+mobile=+385 91 444 8883
+anniversary=19831211
+
+[210]
+name=Franjo Stopić
+mobile=0996863224
+
+[211]
+name=Franko Peraga
+email=frankoperaga@gmail.com
+mobile=098 838 460
+
+[212]
+name=frenky mrky
+email=frenkymrky@yahoo.com
+
+[213]
+name=Gabelica
+phone=+385981906444
+
+[214]
+name=Georgi Slavov
+mobile=+359 89 859 1403
+
+[215]
+name=Gizdić
+mobile=099 359 8812
+
+[216]
+name=Glavac
+mobile=091 251 4015
+
+[217]
+name=Goran
+mobile=+385 98 394 959
+
+[218]
+name=Goran Crnički
+mobile=+385 99 406 4897
+
+[219]
+name=Goran Grgić
+
+[220]
+name=Goran Huljev
+mobile=0912543972
+
+[221]
+name=Goran Jelić
+email=grnjic@gmail.com
+address=91 M. Čatića
+city=Županja
+country=Croatia
+mobile=0981982910
+notes=<sn></sn>\n\n\n
+anniversary=19830919
+
+[222]
+name=Goran Karna
+mobile=+385 99 744 2505
+
+[223]
+name=Goran Kević
+mobile=+385 98 336 536
+
+[224]
+name=Goran Ljubić
+mobile=098 710 032
+
+[225]
+name=Goran Mikulec
+mobile=0959041494
+
+[226]
+name=Goran Novoselić
+mobile=+385 98 936 9524
+
+[227]
+name=Goran Petrović
+email=gpetrovic@net.hr
+workphone=0959114485
+notes=roatia
+
+[228]
+name=Goran Truhan
+mobile=+385 99 405 8957
+
+[229]
+name=Gren Davor
+phone=+385 91 254 3966
+
+[230]
+name=Guldan
+mobile=+385 92 501 2474
+
+[231]
+name=Gyros
+address=57 Domovinskog rata
+city=Split
+zip=21000
+country=Croatia
+mobile=021383052
+notes=Restoran (čevapđinica)
+
+[232]
+name=HAK
+
+[233]
+name=Haris Ibrahimpašić
+mobile=+385914645546
+
+[234]
+name=Hariz Mešković
+mobile=+385 99 694 3099
+
+[235]
+name=Helidromi MORH
+mobile=+385 98 596 624
+
+[236]
+name=Hotel Zagreb
+workphone=021353222
+notes=a
+
+[237]
+name=Hrvoje Andrija Puškarić
+email=hapuskaric@gmail.com
+mobile=0981913101
+
+[238]
+name=Hrvoje Gold
+email=hrvoje.gold@fpz.hr
+mobile=0912027816
+
+[239]
+name=Hrvoje Mužević
+mobile=0958409208
+
+[240]
+name=Hrvoje Slabek
+mobile=+385 91 266 6444
+notes=ZOS\, Operacije u tijeku
+
+[241]
+name=HRZ OSR
+mobile=01 3228 337
+
+[242]
+name=HVU
+notes=<sn></sn>\n\n\n
+
+[243]
+name=HZMP tim Divulje
+mobile=091 401 0355
+
+[244]
+name=Igor Buneta
+phone=099-485-6113
+
+[245]
+name=Igor Funarić
+address=4 Franje Wolfa
+city=Zagreb
+zip=10000
+mobile=+385958011074
+notes=djelarevic@alfakompjuter.hr
+anniversary=19820601
+
+[246]
+name=Igor Mindoljević
+address=Nazorov prilaz 22
+city=Split
+country=Croatia
+mobile=0915683848
+anniversary=19841101
+
+[247]
+name=Igor Potočnjak
+mobile=0915783348
+
+[248]
+name=Igor Prpić
+mobile=091 799 0333
+
+[249]
+name=Ilija Krešić
+address=17b Zrinskih i Frankopana
+city=Metković
+country=Croatia
+mobile=0981660889
+anniversary=19850917
+
+[250]
+name=Ilija Pranjić
+mobile=+385995005837
+
+[251]
+name=Ilijana
+mobile=+385994433484
+
+[252]
+name=Ines Benković
+mobile=098 624 242
+
+[253]
+name=Inna
+phone=+385 99 458 8731
+mobile=+385 98 929 7413
+
+[254]
+name=IPM
+
+[255]
+name=Iva Grabić
+address=45E Put Petrića
+city=Zadar
+zip=23000
+country=Croatia
+nick=Medicinska Pedikura
+
+[256]
+name=Iva Kišasondi Bašić
+mobile=01 4561 801
+
+[257]
+name=Ivan Bilić
+email=balancane@gmail.com
+mobile=091 510 8832
+
+[258]
+name=Ivan Brkić
+mobile=+385 99 347 7973
+
+[259]
+name=Ivan Burčul
+mobile=+385977943050
+
+[260]
+name=Ivan Carević
+mobile=+385 95 874 7997
+
+[261]
+name=Ivan Crnički
+address=29 Augusta Šenoe
+city=Zaprešić
+country=Croatia
+mobile=+385 (99) 7033393
+anniversary=19841113
+
+[262]
+name=Ivan Dukić
+address=29 Ugljanska
+city=Zadar
+zip=23000
+country=Croatia
+mobile=+385 (98) 1694920
+notes=3205489311\n\n\n
+anniversary=19860501
+
+[263]
+name=Ivan Fustar
+mobile=+385 98 202 552
+
+[264]
+name=Ivan Grgić
+mobile=091 510 7952
+
+[265]
+name=Ivan Henrik Damjanović
+address=12 Dobriše Cesarića
+city=Vukovar
+zip=32000
+country=Croatia
+workphone=+43 (664) 4681557
+mobile=098-346-578
+
+[266]
+name=Ivan Host
+mobile=091 212 3001
+
+[267]
+name=Ivan Jozić
+mobile=0922583455
+
+[268]
+name=Ivan Jurić
+mobile=091 601 6052
+
+[269]
+name=Ivan Jurjević
+address=13 Kralja Tomislava
+city=Veliki Grđevac
+country=Croatia
+mobile=098457518
+anniversary=19840318
+
+[270]
+name=Ivan Kramer Kramarić
+mobile=098 660 036
+
+[271]
+name=Ivan Lukan
+email=ivan.lukan@zg.t-com.hr
+mobile=0959072631
+
+[272]
+name=Ivan Marušić
+mobile=+385 98 412 125
+
+[273]
+name=Ivan Matković
+mobile=+385 98 162 5640
+
+[274]
+name=Ivan Omazić
+
+[275]
+name=Ivan Pavlović
+mobile=095 550 9228
+anniversary=--0121
+
+[276]
+name=Ivan Rendulić
+email=ivrenduli@yahoo.com
+address=10 Čileanska
+city=Zagreb
+zip=10000
+country=Croatia
+mobile=+385 98 173 9753
+notes=<HTCData><!-- Please do not modify -->\n<Favorite>actionid\:CallMobile
+anniversary=19851102
+
+[277]
+name=Ivan Rosandic
+mobile=+385 97 536 6700
+
+[278]
+name=Ivan Rubil
+mobile=+385 97 722 1147
+
+[279]
+name=Ivana Bonačić Krešić
+mobile=099 465 0405
+
+[280]
+name=Ivana Ćikić
+mobile=+385 98 916 1521
+
+[281]
+name=Ivana Erstić
+mobile=+385 99 662 2181
+
+[282]
+name=Ivana Francetić Prof.
+email=ivana.francetic@fpz.hr
+workphone=+385 (1) 2304314
+mobile=+385 (91) 5057667
+
+[283]
+name=Ivana Franić Marković
+email=ivanaf77@gmail.com
+workphone=+385914826293
+notes=Gender: Female
+anniversary=19771202
+
+[284]
+name=Ivana Jemić
+address=112 Sljemenska Cesta
+city=Horvati
+country=Croatia
+phone=016526760
+mobile=0915463828
+anniversary=19851120
+
+[285]
+name=Ivana Mrkonjić
+mobile=+385915437991
+
+[286]
+name=Ivana Šćuri
+mobile=095 812 7745
+
+[287]
+name=Ivana Sinković
+mobile=+385998296020
+
+[288]
+name=Ivančan
+mobile=091 511 6740
+
+[289]
+name=Ivica Barišić
+phone=+385 91 517 0085
+
+[290]
+name=Ivica Burić
+mobile=091 575 3632
+
+[291]
+name=Ivica Kelava
+phone=+385 98 743 247
+workphone=+385 99 733 2183
+
+[292]
+name=Ivica Lovrić
+email=mojsecurity@gmail.com
+mobile=098618288
+notes=Gender: Male
+anniversary=--0704
+
+[293]
+name=Ivica Majetić
+address=7 Sveti Polikarp
+city=Pula
+country=Croatia
+mobile=0915135319
+anniversary=19831024
+
+[294]
+name=Ivica Mikac
+mobile=092 139 7100
+
+[295]
+name=Ivica Perica
+mobile=+385 98 251 710
+
+[296]
+name=Ivica Senjak
+phone=01 2370 631
+mobile=091 253 1037
+
+[297]
+name=Ivica Šunjić
+email=sunjicivica@gmail.com
+address=29 A. B. Šimića
+city=Split
+zip=21000
+country=Hrvatska
+phone=+387 63 421 848
+mobile=098380611
+notes=Gender: Male
+anniversary=19610115
+
+[298]
+name=Ivica Ušljebrka
+mobile=095 821 9441
+
+[299]
+name=Ivica Žižić
+
+[300]
+name=Ivna
+mobile=+385 95 845 1830
+
+[301]
+name=Ivna Juranić
+mobile=0989699581
+
+[302]
+name=Ivo Ivica
+phone=+38598320465
+
+[303]
+name=Ivo Popović
+mobile=+385 98 645 221
+
+[304]
+name=Ivona
+mobile=+385 91 739 3949
+
+[305]
+name=Jacquard
+address=256 Samoborska
+city=Zagreb
+zip=10000
+workphone=013498515
+notes=Strojno tkanje
+
+[306]
+name=Jadranka Elipso
+mobile=+385 1 6531 508
+
+[307]
+name=Jakiša Marović
+mobile=0915523744
+
+[308]
+name=Jakov Buturić
+mobile=+385 99 850 7020
+
+[309]
+name=Jakov Matković
+email=jakov.matkovic3@gmail.com
+address=16 Pujanke
+city=Split
+zip=21000
+country=Croatia
+phone=021780511
+mobile=0958480605
+notes=<sn></sn>\n\n
+anniversary=19751111
+
+[310]
+name=James Ramstein
+mobile=00 49 170 2338015
+
+[311]
+name=Jasmina Dvoršak
+mobile=+385917322229
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[312]
+name=Jasminka Lovrenčec
+mobile=092 176 5577
+anniversary=19811017
+
+[313]
+name=Jasminka Planinec
+email=jasminka.planinec@gmail.com,jasminka.planinec@petrokemija.hr,jasminkaplaninec@gmail.com
+address=Vinogradska
+city=Gracenica
+country=Croatia
+phone=044630038
+workphone=044647270
+mobile=0992495216
+notes=<FDMID>9830431</FDMID>\n\n\n<HTCData><!-- Please do not modify -->\n<F
+
+[314]
+name=Jasna Bobošević
+mobile=099 317 2243
+
+[315]
+name=Jasna Vìćko
+mobile=+385 99 657 1262
+
+[316]
+name=Jason Ramstein
+mobile=00 30 698 352 2271
+
+[317]
+name=Javaughn Johnson
+mobile=+44 7429 180296
+notes=FSMC US
+
+[318]
+name=Jay Falkenberg
+mobile=+1(302)9810030
+
+[319]
+name=Jazvo
+mobile=+38598742942
+
+[320]
+name=Jenny Ramstein
+mobile=00 30 698 350 3971
+
+[321]
+name=Jerko Tomas
+
+[322]
+name=Jimmy Van Oost
+mobile=+32 472 38 94 81
+notes=FSMC Belgium
+
+[323]
+name=João Almeida
+mobile=+351 916 106 215
+notes=FSMC Portugla
+
+[324]
+name=Joke Ivančević
+mobile=098567759
+notes=<sn></sn>\n\n
+
+[325]
+name=Josip Bažant
+mobile=+385 92 203 4207
+
+[326]
+name=Josip Božićek
+email=jbozicek@volvo-acb.hr
+workphone=+385 1 2900 063
+
+[327]
+name=Josip Jurjević
+mobile=098495807
+
+[328]
+name=Josip Migovac Perić
+mobile=+385 98 424 605
+
+[329]
+name=Josip Miljanić
+mobile=098 714 248
+
+[330]
+name=Josip Novak
+email=aerofaros@gmail.com
+mobile=091-250-8007
+
+[331]
+name=Josip Perić
+email=13pera@gmail.com
+address=Zemunik Donji 65
+city=Zadar
+zip=23000
+country=Croatia
+mobile=098325237
+notes=<FDMID>10027039</FDMID>
+anniversary=19851018
+
+[332]
+name=Josip Perković
+mobile=+385 98 232 663
+notes=NEP
+
+[333]
+name=Josip Prkić
+mobile=0912007667
+notes=AP Imotski
+
+[334]
+name=Josip Rašić
+address=45 Lička
+city=Zagreb
+zip=10000
+country=Croatia
+mobile=0958938254
+anniversary=19830713
+
+[335]
+name=Josip Sovulj
+mobile=0915278265
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[336]
+name=Josip Toto
+mobile=+385 91 790 9936
+
+[337]
+name=Josip Žunić
+mobile=+385 98 928 0374
+
+[338]
+name=Josipa Bilogrević
+email=josipa.bilogrevic@domekspert.hr
+mobile=098 937 4289
+
+[339]
+name=Joško Grančić
+mobile=091 112 1088
+
+[340]
+name=Julija Milić
+mobile=+385 92 370 5837
+
+[341]
+name=Julijan - Kordinator za grijanje
+mobile=+385 91 244 4557
+
+[342]
+name=Jura
+mobile=+385 99 344 3873
+
+[343]
+name=Juraj Kovačević
+address=8 Zvonarska
+city=Vinkovci
+country=Croatia
+mobile=0981712625
+anniversary=19831212
+
+[344]
+name=Jure Marić
+workphone=0981944977
+
+[345]
+name=Jure Sabelja
+email=jsabelja@net.hr
+address=62 Vladimira Nazora
+city=Stari Mikanovci
+country=Croatia
+mobile=098542919
+anniversary=19850713
+
+[346]
+name=Jure Stipić
+mobile=098 860 385
+
+[347]
+name=Jure Šušić
+phone=023 270 136
+
+[348]
+name=Jure Uzinić
+mobile=+385 98 170 1746
+
+[349]
+name=Jurica Filipčić
+email=jurica.filipcic@ccaa.hr
+workphone=01 2369 343
+mobile=+385912369407
+
+[350]
+name=Jurica Lovrić
+address=9 Sveti Florijan
+city=Karlovac
+country=Croatia
+mobile=0915060617
+anniversary=19850325
+
+[351]
+name=Jurković
+mobile=098 667 123
+
+[352]
+name=Kalcina
+mobile=+385 98 264 568
+notes=Dizalice ZD
+
+[353]
+name=Karlo Kolšek
+address=Križevačka 2
+city=Sokolovac
+country=Croatia
+mobile=098700494
+anniversary=19861215
+
+[354]
+name=Karmelo Janjić
+mobile=099 735 3462
+
+[355]
+name=Katarina
+mobile=0989976948
+notes=Stan Palača pravde
+
+[356]
+name=Katarina Cerovšek
+mobile=0996987530
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[357]
+name=Katarina Dukić
+mobile=+385 (98) 293299
+anniversary=19860310
+
+[358]
+name=Katija Smoljko
+mobile=+385995908970
+
+[359]
+name=Klaudija Milin
+mobile=0996851202
+
+[360]
+name=Knezek
+mobile=091 189 9996
+
+[361]
+name=Kolačko
+mobile=098280951
+notes=<sn></sn>\n\n
+
+[362]
+name=Konan Alijević
+mobile=+385 91 737 8189
+
+[363]
+name=Kontejneri 12m Vrgorac
+mobile=+385 95 861 7707
+
+[364]
+name=Kozomara
+phone=021-486-763
+
+[365]
+name=Kresimir Drevenšek
+phone=+385 91 610 4196
+
+[366]
+name=Krešimir Gagula
+mobile=+385 91 768 5979
+
+[367]
+name=Kresimir Letica
+workphone=091 518 7038
+mobile=095 901 2720
+
+[368]
+name=Krešimir Matan
+email=kresimir.matan@gmail.com
+mobile=0958257249
+notes=Gender: Male
+
+[369]
+name=Krešimir Vujić
+mobile=+385959099143
+
+[370]
+name=Kristian Kraljić
+mobile=091 565 2762
+
+[371]
+name=Kristijan Bilić
+mobile=095-198-3483
+
+[372]
+name=Kristijan Morić
+phone=+385922185455
+mobile=0922555765
+
+[373]
+name=Kristijan Orebić Vino
+mobile=+385 99 214 4224
+
+[374]
+name=Kristina Banovec
+email=kristina.banovec1990@gmail.com
+mobile=091 885 8613
+notes=Arhitekt
+
+[375]
+name=Kristina Jelić
+mobile=+385998002239
+
+[376]
+name=Kristina Kušnjačić-Brnada
+address=41 Ježdovečka
+city=Ježdovec
+notes=Frizerka Lučko
+
+[377]
+name=Kristina Svilčić
+mobile=01 4567 114
+
+[378]
+name=Krizine koronarni
+mobile=021 557 395
+
+[379]
+name=Krunoslav Damjanović
+mobile=091 500 2455
+
+[380]
+name=Kuhek
+mobile=+385 99 413 6539
+
+[381]
+name=Lahorka
+mobile=091 528 9179
+
+[382]
+name=LDOS
+workphone=+385 31 514 451
+
+[383]
+name=LDSP Carina
+mobile=021 203 212
+
+[384]
+name=Lea Senjak
+mobile=097 692 0413
+
+[385]
+name=Lee A. Fuller
+mobile=+1 517-230-7535
+
+[386]
+name=Lena Marinković
+mobile=+385 98 502 836
+
+[387]
+name=Lenka
+mobile=00 420 605 729 319
+
+[388]
+name=Leonardo Dumanić
+email=leonardodumanic@gmail.com
+mobile=0959049979
+notes=Gender: Male
+
+[389]
+name=Lesnina Split
+mobile=021 707 466
+
+[390]
+name=Lidija Soldo
+mobile=01 6631 821
+
+[391]
+name=Linards Gurtins
+mobile=+371 26 144 597
+notes=FSMC Latvia
+
+[392]
+name=Ljerka Kljaković
+mobile=098 929 9695
+
+[393]
+name=Ljiljana Belošević
+mobile=+38598620486
+
+[394]
+name=LORA
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[395]
+name=Lorenzo Mikulić
+mobile=+385 95 534 7751
+
+[396]
+name=Lovre Pavlović
+mobile=+385957180232
+anniversary=--1129
+
+[397]
+name=Luan Sadiku
+mobile=+355 68 681 8218
+nick=Lion
+notes=FSMC Albania
+
+[398]
+name=Luka
+mobile=+385 97 796 7876
+notes=Suta
+
+[399]
+name=Luka Buljan
+mobile=098565014
+
+[400]
+name=Luka Carabinieri
+mobile=00 39 366 578 5310
+
+[401]
+name=Luka Cvitković
+mobile=098 956 8531
+
+[402]
+name=Luka Lenić
+email=lenic.luka@gmail.com
+address=172/III Ilica
+city=Zagreb
+zip=10000
+country=Croatia
+workphone=013764838
+mobile=0989088033
+
+[403]
+name=Luka Maksimović
+mobile=0958148998
+
+[404]
+name=Luka Marić
+mobile=+385 98 800 314
+notes=ZSS
+
+[405]
+name=Luka Strus
+mobile=+386 31 438 654
+
+[406]
+name=Lukazs Marciniak
+mobile=+48 797 110 599
+notes=FSMC Poland
+
+[407]
+name=Luke Micheletti
+mobile=+49 170 7046715
+notes=FSMC US
+
+[408]
+name=Luki Ljubić
+mobile=0911965235
+notes=<sn></sn>\n\n
+
+[409]
+name=Maja Bratanić
+email=mbratan@ihjj.hr
+
+[410]
+name=Maja Feta
+mobile=+385 98 982 4843
+
+[411]
+name=Maja Herceg
+mobile=092 142 9905
+
+[412]
+name=Maja Skrba
+mobile=+385 98 479 033
+
+[413]
+name=Majerić
+mobile=+385 91 612 1977
+
+[414]
+name=Majstorović
+mobile=+385 91 910 0664
+
+[415]
+name=Mala Mara
+mobile=099 838 8914
+
+[416]
+name=Mana
+mobile=0958417962
+
+[417]
+name=Mandić
+mobile=+385 91 391 9443
+
+[418]
+name=Mandić
+mobile=091 391 9443
+
+[419]
+name=Marasović
+mobile=098 209 534
+
+[420]
+name=Marica Marinović
+mobile=098 176 3457
+
+[421]
+name=Marija Došen
+email=maradosen@gmail.com
+mobile=098618277
+notes=Gender: Female
+anniversary=--0223
+
+[422]
+name=Marija Medur Marcelić
+mobile=+385981754074
+
+[423]
+name=Marija Stojičić
+email=marija.stojicic@gmail.com
+mobile=099 366 5283
+
+[424]
+name=Marijan Galić
+mobile=+385 (98) 771881
+
+[425]
+name=Marijan Štrukelj
+mobile=0989336140
+
+[426]
+name=Marijana Kubica
+mobile=091 589 4963
+
+[427]
+name=Marijana Kurić
+mobile=+38598723844
+
+[428]
+name=Marijo Rendulić
+mobile=+385 95 262 6266
+
+[429]
+name=Marin Klarin
+mobile=0981770336
+
+[430]
+name=Marin Žunić
+mobile=098 946 5704
+
+[431]
+name=Marina Blažetić
+email=r
+address=111 Varaždinska
+city=Sesvete
+zip=10360
+country=Croatia
+workphone=01 2013 007
+mobile=+385 95 578 2940
+
+[432]
+name=Marina Divulje
+mobile=+385955832477
+
+[433]
+name=Marina Mrkša
+address=39 Antuna Šoljana
+city=Zagreb
+zip=10000
+country=Croatia
+mobile=091 444 8873
+
+[434]
+name=Marina Svrze
+email=msvrze@morh.hr
+workphone=86335
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[435]
+name=Marinko Bakmaz
+workphone=023358152
+mobile=+385 (91) 2543942
+
+[436]
+name=Marinović
+mobile=091 551 6027
+
+[437]
+name=Mario
+mobile=+385 92 129 7199
+
+[438]
+name=Mario Grgat
+mobile=+385 95 541 0880
+
+[439]
+name=Mario Gugić
+mobile=0989364613
+
+[440]
+name=Mario Koljatić
+mobile=+385 99 888 8230
+
+[441]
+name=Mario Lukić
+mobile=098 875 648
+
+[442]
+name=Mario Maslov
+email=mariomaslov1@gmail.com
+mobile=091 156 9511
+
+[443]
+name=Mario Medić
+mobile=+385 91 898 5414
+
+[444]
+name=Mario Pleša
+email=mario.plesa@morh.hr
+mobile=098 379 827
+
+[445]
+name=Mario Primorac Padobranac
+
+[446]
+name=Mario Šimunić
+mobile=091 797 9531
+
+[447]
+name=Mario Šimunović
+mobile=+385 91 390 3568
+
+[448]
+name=Mario Šunjić
+mobile=0958088371
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[449]
+name=Mario Tadić
+phone=0958114499
+
+[450]
+name=pr Mario Takalić
+mobile=+385 95 847 6296
+
+[451]
+name=Mario Tworek
+mobile=0993117293
+
+[452]
+name=Mario Vukas
+mobile=095 590 6707
+
+[453]
+name=Marjana Jurić
+email=Marjana.juric@pbz.hr
+mobile=099 469 8589
+
+[454]
+name=gda. Marjanović
+mobile=099 771 8449
+
+[455]
+name=Marko Auto
+mobile=+385 91 280 5973
+
+[456]
+name=Marko Božić
+mobile=+385997944644
+
+[457]
+name=Marko Brcković
+email=mbrckovic@gmail.com
+workphone=01 2065 825
+mobile=091 576 8358
+
+[458]
+name=Marko Bubić
+email=mbubichr@yahoo.com
+mobile=+385989341954
+notes=<sn></sn>\n\n\n
+
+[459]
+name=Marko Cerovečki
+mobile=+385 91 504 9919
+
+[460]
+name=Marko Filipović Grčić
+email=m08039885@gmail.com
+mobile=0981640137
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[461]
+name=Marko Gerić
+email=germa1608@gmail.com
+mobile=+385915417309
+
+[462]
+name=Marko Insignija
+mobile=+385 91 532 4091
+
+[463]
+name=Marko Maradin
+email=mmaradeen@gmail.com
+mobile=0915717928
+anniversary=--0730
+
+[464]
+name=Marko Marić
+email=mara.07lukas@gmail.com
+phone=099-420-1679
+notes=Gender: Male
+anniversary=19781110
+
+[465]
+name=Marko Mrkus
+email=Mrkimm@net.hr,mrkus.marko@gmail.com
+address=81 Cigrovec
+city=Pregrada
+country=Croatia
+mobile=0981685964
+notes=<HTCData><!-- Please do not modify -->\n<Favorite>actionid\:CallMobile
+anniversary=19851107
+
+[466]
+name=Marko Novković
+phone=+385 99 333 4856
+
+[467]
+name=Marko Podrug
+mobile=+385 91 153 9759
+
+[468]
+name=Marko Prenđa
+mobile=+385958087018
+anniversary=19940202
+
+[469]
+name=Marko Pućo
+mobile=+385 95 895 4430
+
+[470]
+name=Marko Samirić
+mobile=0918934477
+
+[471]
+name=Marko Taubinger
+mobile=098675975
+
+[472]
+name=Marta Tomasović
+email=marta.tomasovic@gmail.com
+mobile=0917902974
+anniversary=19850917
+
+[473]
+name=Martin policajac du
+mobile=091 502 8063
+
+[474]
+name=Martina
+mobile=+386 41 632 537
+
+[475]
+name=Martina Rendulić
+mobile=0981839008
+
+[476]
+name=pk Matas
+mobile=091 546 1148
+notes=HRM\, LORA\, gađanje.
+
+[477]
+name=Mate Labrović
+mobile=0981807498
+
+[478]
+name=Gen. Mate Obradović
+mobile=098315985
+notes=<sn></sn>\n\n
+
+[479]
+name=Mate Raos
+mobile=095 386 1118
+
+[480]
+name=Mate Štrkalj
+address=12 Nadinići
+city=Sukošan
+country=Croatia
+mobile=098810263
+
+[481]
+name=Matej Sinković
+mobile=+38598835884
+
+[482]
+name=Mateto
+mobile=091 579 5549
+
+[483]
+name=Matija Sinković
+
+[484]
+name=Matilda Higijenski
+mobile=091 002 7545
+
+[485]
+name=Mato Šimunović
+mobile=+385 92 230 5037
+
+[486]
+name=Mato Tunjić
+mobile=0958125779
+
+[487]
+name=Matthieu
+mobile=+41 79 577 07 66
+
+[488]
+name=Melita Ivšek-Jmbrošić
+mobile=+385 99 343 1701
+
+[489]
+name=METEO Dalmacija Dezurni
+mobile=01 6259 224
+
+[490]
+name=Meteo HRZ
+mobile=01 4589 513
+
+[491]
+name=METEO Split
+mobile=021 205 452
+
+[492]
+name=METEO Zagreb
+mobile=(016) 259-240
+
+[493]
+name=Michal Lysoň
+mobile=+420 774 932 332
+
+[494]
+name=Mihael Križanec
+workphone=+385981836566
+mobile=+385 98 276 835
+
+[495]
+name=Mihael Rogić
+address=Prozor 31a
+city=Otočac
+country=Croatia
+mobile=0981809486
+anniversary=19850919
+
+[496]
+name=Mihail Bozukov
+mobile=+359 89 873 6240
+
+[497]
+name=Mihail Dimitrov
+mobile=+359 89 682 0857
+notes=FSMC Bulgaria
+
+[498]
+name=Mihovil Kranjčec
+address=119c Gornja Šemnica
+city=Radoboj
+country=Croatia
+mobile=098661680
+anniversary=19850627
+
+[499]
+name=Mihovil Tomašević
+mobile=+385 99 693 0347
+
+[500]
+name=Milan
+mobile=095 811 6580
+
+[501]
+name=Milan Došen
+mobile=0981625393
+anniversary=--0921
+
+[502]
+name=Milan Jelović
+mobile=+385915757099
+
+[503]
+name=Mile Tomić
+phone=32455
+mobile=992878
+
+[504]
+name=Miljenka Prenđa
+mobile=+385955698728
+anniversary=--0808
+
+[505]
+name=Miodrag Boban
+phone=+38598718816
+
+[506]
+name=Miodrag Planinec
+email=miodrag.planinec@gmail.com
+address=Vinogradska
+city=Gracenica
+country=Croatia
+phone=044630038
+workphone=0981728345
+mobile=0981728344
+notes=<FDMID>10027039</FDMID><HTCData><!-- Please do not modify -->\n<Favori
+
+[507]
+name=Mirela Latinčić
+mobile=0989331912
+notes=<sn></sn>\n<HTCData><!-- Please do not modify -->\n<Facebook></Faceboo
+anniversary=19850827
+
+[508]
+name=Mirjana Keser
+workphone=098229674
+
+[509]
+name=Mirjana Mamuza
+mobile=098245317
+
+[510]
+name=Mirjana Senjak
+mobile=0981946974
+
+[511]
+name=Mirko Jurčević
+address=Obrovnica
+city=Bjelovar
+zip=34
+country=Croatia
+mobile=0981680545
+anniversary=19850709
+
+[512]
+name=Mirko Karačić, dr. med.
+mobile=+385998303149
+
+[513]
+name=Mirko Žužul
+phone=099 310 5501
+
+[514]
+name=Mirna Marinčić
+mobile=098353347
+
+[515]
+name=Mirna Mužević
+mobile=0997699927
+
+[516]
+name=Mirna Radošević
+mobile=091 220 6078
+
+[517]
+name=Miro Dijanežević
+mobile=+385 98 635 721
+
+[518]
+name=Miro Horvat
+mobile=+385 98 173 4981
+
+[519]
+name=Miroslav Bolješić
+mobile=+385 99 616 9003
+
+[520]
+name=Miroslav Karaula
+address=4 Nike Katunara
+city=Rijeka
+country=Croatia
+mobile=0915313366
+anniversary=19840212
+
+[521]
+name=Miroslav Milošić
+address=Petrovec
+city=Lekenik
+zip=1
+country=Croatia
+mobile=0989614923
+anniversary=19850520
+
+[522]
+name=Miroslav Pena
+mobile=+385 98 386 387
+
+[523]
+name=Miroslav Stojanovic
+mobile=+385915516038
+
+[524]
+name=Misso Tihana
+mobile=+38763825580
+
+[525]
+name=Mitnica
+workphone=013778643
+
+[526]
+name=Mladen Cebrajec
+mobile=098 996 2434
+
+[527]
+name=Mladen Dragojević
+mobile=0915169116
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[528]
+name=Mladen Kapelčan
+workphone=01 3670 211
+mobile=099 367 0769
+
+[529]
+name=Mladen Vinković
+mobile=091 112 1022
+
+[530]
+name=Mlinarić MUP
+mobile=+385 91 456 3925
+
+[531]
+name=Mohenski
+mobile=091 506 5300
+
+[532]
+name=MOJ SERVIS TOSHIBA Team
+email=toshiba@mojservis.hr
+
+[533]
+name=Moj Shopping
+email=info@mojshopping.com
+
+[534]
+name=Monika Tržić
+email=monika24t49@gmail.com,trzicmonika@gmail.com
+address=Gornje Biljane 320
+city=Benkovac
+zip=23424
+country=Croatia
+mobile=0989367715
+notes=Gender: Female
+anniversary=19890324
+
+[535]
+name=More Fast Food
+mobile=099 753 1699
+
+[536]
+name=MORH
+notes=<HTCData><!-- Please do not modify -->\n<Favorite>actionid\:CallWork</
+
+[537]
+name=Mornar
+mobile=+385 95 385 4434
+notes=RTOP-41 Vukovar
+
+[538]
+name=stn Mršo
+mobile=+385 98 943 6496
+
+[539]
+name=Munjiza
+mobile=0989337087
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[540]
+name=MUP
+
+[541]
+name=Nada Hatlak
+address=13d Miramarska
+city=Zagreb
+zip=10000
+country=Croatia
+phone=016117539
+mobile=+385 91 982 9351
+notes=<FDMID>9830431</FDMID>\n\n\n<HTCData><Favorite>actionid\:CallMobile</F
+anniversary=19251013
+
+[542]
+name=Nata VIP
+mobile=+385 91 469 2742
+
+[543]
+name=Nataša Juničić
+mobile=+385 98 823 026
+
+[544]
+name=Nedeljko
+mobile=+385981376824
+
+[545]
+name=Nedjeljka Matetić
+mobile=091 260 2486
+
+[546]
+name=Nedjeljko Puljević
+mobile=+38598814205
+
+[547]
+name=Nena Jakupak
+mobile=092 245 6938
+
+[548]
+name=Nenad Ristic
+mobile=+38345514195
+
+[549]
+name=Nenad Ristic
+mobile=+37745514195
+
+[550]
+name=Nera Valentić
+email=nera.valentic@gmail.com
+mobile=+385 91 269 2161
+
+[551]
+name=Nera Valentić
+mobile=+16025877763
+
+[552]
+name=efendija Nermin Botonjić
+mobile=098 886 566
+
+[553]
+name=pk Neven Brozović
+email=neven.brozovic@morh.hr
+mobile=+385 95 910 7021
+
+[554]
+name=Neven Korica
+email=neven.korica@si.t-com.hr,koricaneven@gmail.com
+mobile=+385 95 198 1350
+
+[555]
+name=Nevenka Škopac
+mobile=091 253 6549
+
+[556]
+name=Nik Ramstein
+mobile=00 30 697 002 3214
+
+[557]
+name=Nikica Mito Tole
+email=nikicatole@gmail.com
+mobile=+385977134782
+
+[558]
+name=Nikola Bunjevac
+mobile=+385 98 897 781
+
+[559]
+name=Nikola Gažo
+email=nikola_gazo@yahoo.com
+mobile=+385955501230
+notes=<sn></sn>\n\n\n
+
+[560]
+name=Nikola Grcić
+
+[561]
+name=Nikola Kerekeš
+mobile=098 994 9706
+
+[562]
+name=Nikola Mrkus
+mobile=0989601633
+
+[563]
+name=Nikoleta Tole
+mobile=+385958615778
+anniversary=19851007
+
+[564]
+name=Nikolina
+mobile=+385 98 633 314
+notes=HMP Blato\, medicinska sestra
+
+[565]
+name=Nino
+
+[566]
+name=Nino Ćosić
+mobile=091 154 8448
+
+[567]
+name=Nino Gaković
+mobile=+385 95 902 9471
+
+[568]
+name=Nives Senjak
+mobile=0989039496
+
+[569]
+name=Novoselić
+mobile=099 478 6256
+
+[570]
+name=npr Mate Žura
+email=mate.zura@morh.hr
+mobile=+385 99 362 8420
+
+[571]
+name=Okružni zatvor Split (Bilice)
+workphone=021461188
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[572]
+name=Oliver
+mobile=+3859 841 8 14 9
+
+[573]
+name=Oti Dumitrescu
+mobile=+49 179 7449759
+notes=FSMC Romania
+
+[574]
+name=Oto Bartoš
+mobile=+385955201100
+
+[575]
+name=Paleka
+mobile=+385 91 561 0204
+notes=M/t Sapen
+
+[576]
+name=Paško Radić
+mobile=+385 99 783 9517
+
+[577]
+name=Paula Marija Došen
+mobile=+385 95 768 2500
+anniversary=--1122
+
+[578]
+name=PBZ
+mobile=014891333
+
+[579]
+name=Pedijatrica - Martinac
+mobile=+385 1 6598 448
+
+[580]
+name=Perak
+mobile=+385989698865
+
+[581]
+name=Perica Vuković
+address=122 Zagrebačka
+city=Lekenik
+country=Croatia
+mobile=0981696401
+anniversary=19841021
+
+[582]
+name=Pero Selak
+mobile=0917377446
+
+[583]
+name=Petar
+mobile=099 306 9990
+
+[584]
+name=Petar Kovačević
+mobile=098 851 614
+
+[585]
+name=Petar Mikac
+mobile=098 970 5810
+
+[586]
+name=Petar Mutabžija
+mobile=0955368636
+notes=<sn></sn>\n\n
+
+[587]
+name=Petar Pachev
+mobile=+359 88 760 6240
+
+[588]
+name=Petar Štrukelj
+address=15 Zemunska
+city=Sesvete
+zip=10360
+country=Croatia
+phone=0998062500
+mobile=0989109750
+notes=<sn></sn>\n\n
+anniversary=19860206
+
+[589]
+name=Petr
+mobile=+420 723 145 201
+
+[590]
+name=Petra 2 Mikac
+mobile=+385 99 495 0465
+
+[591]
+name=Petra Mikac
+mobile=+385 98 387 034
+
+[592]
+name=Petra Šercer Matavž
+email=petrasercer@gmail.com
+mobile=092 340 0058
+
+[593]
+name=Petrlić A5
+mobile=+385 91 520 6693
+
+[594]
+name=Pigac
+mobile=092 171 3131
+
+[595]
+name=pk Marinko Karačić
+email=marinkokaracic@net.hr
+workphone=091 400 4277
+
+[596]
+name=POF
+address=23 Cerinina
+city=Zagreb
+zip=10000
+workphone=014568422
+notes=\nValerija i Katarina
+
+[597]
+name=Poliklinika Med Point
+mobile=+385 21 404 888
+
+[598]
+name=Popadić
+mobile=+385 91 577 7062
+
+[599]
+name=Popravak Mobitela
+mobile=092 290 7388
+
+[600]
+name=Pračinec
+mobile=091 548 2528
+
+[601]
+name=Prkačin
+mobile=095 919 4501
+
+[602]
+name=Promet Split
+phone=021407901
+
+[603]
+name=PSC Dalmacija Tomasov
+mobile=+385992618309
+
+[604]
+name=Radomir Delić
+workphone=021353201
+notes=direktor hotela Zagreb\n\n
+
+[605]
+name=Radovan Zlatarić
+mobile=098 601 187
+
+[606]
+name=Rafael Lopez-Martinez
+mobile=+36 30 245 2232
+notes=FSMC US
+
+[607]
+name=Rafael Rajko Boban
+phone=0955561188
+mobile=095 902 5205
+
+[608]
+name=Renata Medved
+mobile=095 544 9984
+
+[609]
+name=Renata Mić Plučić
+mobile=098 292 705
+
+[610]
+name=Renato Radovanović
+address=66 Slavonska\nZadubravlje
+city=Trnjani
+zip=35211
+country=Croatia
+mobile=0915761044
+notes=<HTCData><!-- Please do not modify -->\n<Favorite>actionid\:CallMobile
+anniversary=19850416
+
+[611]
+name=Robert "Mike" Jurkovac
+mobile=+385 99 820 8950
+
+[612]
+name=Robert Bilić
+mobile=098237840
+notes=Mitsubishi servis Velika Gorica
+
+[613]
+name=Robert HUN
+mobile=+36 30 847 1562
+notes=Mađarski pilot
+
+[614]
+name=Robert Marjanović
+mobile=099 300 5305
+notes=SOD
+
+[615]
+name=Robert Novak
+mobile=0958612323
+
+[616]
+name=Robert Smoljanović
+address=11 Bana Josipa Jelačića
+city=Dugi Rat
+country=Croatia
+phone=099 801 7517
+anniversary=19851029
+
+[617]
+name=Robert Spernjak
+mobile=+386 31 393 534
+
+[618]
+name=Robert Tramišak
+mobile=098 182 3588
+
+[619]
+name=Robertina Marić
+email=robertina.maric888@gmail.com,robertina@robertina-nokti.tk
+mobile=0994201682
+notes=Gender: Male
+anniversary=19810108
+
+[620]
+name=Robi
+mobile=0915908422
+
+[621]
+name=Robi Opel
+mobile=098 344 595
+
+[622]
+name=Roko Gospić
+mobile=+385 (98) 895175
+
+[623]
+name=Roland Rajić
+mobile=098222783
+
+[624]
+name=Romano Mužak
+address=Gornje mrzlo polje
+city=Duga Resa
+zip=158
+country=Croatia
+mobile=091 896 5237
+anniversary=19851023
+
+[625]
+name=Rudo
+mobile=092 271 9085
+
+[626]
+name=Rudo
+mobile=0915158321
+
+[627]
+name=Rušev
+mobile=0981767184
+
+[628]
+name=Ružica Petrinjak
+address=3 Mariborska
+city=Sesvete
+zip=10360
+country=Croatia
+phone=012005632
+mobile=0981750188
+notes=<HTCData><!-- Please do not modify -->\n<Favorite>actionid\:CallHome</
+anniversary=19250113
+
+[629]
+name=Ryan Cook
+mobile=+1 253-468-2746
+
+[630]
+name=Šabić
+mobile=+385 95 821 6686
+
+[631]
+name=Samir Florian
+mobile=01 6631 311
+
+[632]
+name=Samsonite Servis
+workphone=+38516199621
+
+[633]
+name=Samsung Active Tab
+mobile=+385 98 982 1481
+
+[634]
+name=Samsung S21
+mobile=+385 99 744 9724
+
+[635]
+name=Sanja Drakulić
+mobile=099 264 0677
+
+[636]
+name=Sanja ZZP
+mobile=+385989202509
+
+[637]
+name=Šare autolakirer
+mobile=0995001098
+
+[638]
+name=Saša Lukić
+mobile=0981331029
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[639]
+name=Saša Muhek
+email=muheksasa@yahoo.com
+mobile=+385 99 830 5945
+
+[640]
+name=Sebastijan Trepšić
+email=sebastijantrepsic@gmail.com
+address=178 Križni Put
+city=Nuštar
+zip=32221
+country=Croatia
+mobile=0915487696
+notes=Pbz 3206401750<FDM
+anniversary=19851028
+
+[641]
+name=bjn Silva Šušnjara
+mobile=0915870799
+
+[642]
+name=Silvija Matan
+phone=+385958256967
+
+[643]
+name=Silvija Mesec
+address=14 Ante Kovacica
+city=Lepoglava
+zip=42250
+phone=+385989780937
+
+[644]
+name=Silvio Begić
+mobile=+385989728486
+
+[645]
+name=Šime
+mobile=+385 99 340 4711
+notes=Honda motor CB600F
+
+[646]
+name=Šime Lisica
+email=simelisica79@yahoo.com
+mobile=0915316397
+
+[647]
+name=Sindre Thorsteinsen
+mobile=+47 476 65 612
+notes=FSMC Norway
+
+[648]
+name=Siniša Ante Kozina
+email=ante.kozina1@st.t-com.hr
+mobile=0959141592
+notes=<sn></sn>\n\n
+
+[649]
+name=Siniša Đerić
+mobile=+385923206341
+
+[650]
+name=Siniša Lučev
+mobile=+385955102289
+
+[651]
+name=Sjedalica
+mobile=091 5058424
+
+[652]
+name=Slaven Aračić
+phone=091 459 3655
+mobile=+385 91 459 3655
+
+[653]
+name=Slaven Matuza
+mobile=+385 95 595 0999
+
+[654]
+name=bjn Slavica
+phone=2684
+mobile=+385915026142
+
+[655]
+name=Slobodan Glavčić
+mobile=+385 95 198 0236
+
+[656]
+name=Slunj Poligon
+mobile=047 626 830
+
+[657]
+name=Snježana Ambulanta
+email=snjezana2401@gmail.com
+mobile=0959040941
+
+[658]
+name=Split TWR
+workphone=021 895 333
+mobile=099 384 8923
+
+[659]
+name=Špoljar MUP
+mobile=+385 99 274 2936
+
+[660]
+name=pk Šprišić
+mobile=+385 98 224 017
+
+[661]
+name=Srđana Hrepić
+mobile=091 477 9710
+
+[662]
+name=Sreten Sarić
+mobile=+385 91 794 6364
+
+[663]
+name=Staklene Stijene
+mobile=+385 91 601 4985
+
+[664]
+name=Stan B. BUSICA 100m2 I-Z
+mobile=095 537 4825
+
+[665]
+name=Stan Sredisce
+mobile=+385 98 665 119
+
+[666]
+name=Stan Sredisce Pribić
+mobile=091 784 5777
+
+[667]
+name=Stan Vukovarska Martina
+mobile=+385 91 556 3638
+
+[668]
+name=Stanislav Pernica
+mobile=+420 774 099 775
+
+[669]
+name=Stella Ferić-Živaljić
+mobile=+385 (91) 5454449
+
+[670]
+name=Stipan Staznik
+mobile=092 145 4281
+
+[671]
+name=Stipe Baždarić
+mobile=+385 (98) 9732928
+
+[672]
+name=Stipe Kosta Kolić
+mobile=+353 83 191 0110
+
+[673]
+name=Stipo Adžaga
+mobile=+385 98 288 238
+
+[674]
+name=Stjepan Jović
+email=sjjovic@gmail.com
+mobile=0914185157
+notes=<sn></sn>\n\n\n
+
+[675]
+name=Stjepan Previšić
+email=asprevisic@gmail.com
+address=17 Kikićeva
+city=Zagreb
+zip=10000
+mobile=0915074531
+notes=<HTCData><!-- Please do not modify -->\n<Favorite>actionid\:CallMobile
+anniversary=19840816
+
+[676]
+name=Stjepan Stepić
+email=stepicstjepan@gmail.com
+address=4 Alojzija Stepinca
+city=Nova Gradiška
+zip=35400
+country=Croatia
+mobile=091 422 4262
+notes=<sn></sn>\n\n\n
+anniversary=--0422
+
+[677]
+name=Stomatološka ordinacija Makovica
+workphone=012750227
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[678]
+name=STS tim ZSS
+mobile=099 495 0550
+
+[679]
+name=Stupar
+mobile=0981765622
+
+[680]
+name=Sulić
+mobile=+385 99 405 7683
+notes=Vojna policija
+
+[681]
+name=Suza bolnica
+mobile=023 505 340
+
+[682]
+name=Suzana Grmoja
+mobile=+385 99 216 8754
+
+[683]
+name=Suzana Kozjak
+email=kozjak.suzana@gmail.com
+mobile=098 162 9092
+
+[684]
+name=Suzana Prenđa
+email=atia
+address=8 Ivana Sibla
+city=Zagreb
+zip=10000
+country=Croatia
+workphone=099 497 7873
+mobile=099 888 0400
+notes=Gender: Female
+anniversary=19870416
+
+[685]
+name=Svetlana Zlatić
+mobile=+385 99 271 2956
+
+[686]
+name=System One
+workphone=013691282
+mobile=+34 947 08 93 05
+
+[687]
+name=Tadija Marić
+mobile=+385 91 959 3637
+
+[688]
+name=Tamara Pletikapić
+email=pletikapic@gmail.com
+workphone=+385 1 4861 062
+mobile=+385 91 734 1338
+
+[689]
+name=Tanja Topol
+mobile=091 546 4421
+
+[690]
+name=Taxi Cammeo
+mobile=1212
+
+[691]
+name=Taxi EKO
+mobile=1414
+
+[692]
+name=Teo Maraš
+mobile=0977668889
+
+[693]
+name=Teo Planinec
+email=teo.planinec@gmail.com,teoplaninec@gmail.com
+mobile=0958785780
+notes=<sn></sn><FDMID>9830431</FDMID>\n\n\n
+anniversary=20010925
+
+[694]
+name=Thomas Foose
+mobile=+1 253-970-6096
+
+[695]
+name=Tina Pleter
+mobile=+385958661348
+
+[696]
+name=Tino Bucak
+mobile=098265737
+
+[697]
+name=Todd Huhn
+email=todd.huhn@us.af.mil
+mobile=+49 6371 476757
+
+[698]
+name=Tomica Mikec
+mobile=0915790432
+
+[699]
+name=Tomica Sinković
+mobile=098 812 243
+
+[700]
+name=Tomislav
+mobile=098 194 2257
+
+[701]
+name=Tomislav Ančić
+mobile=+385 99 582 8948
+
+[702]
+name=Tomislav Barbir
+address=23 Petra Svačića
+city=Metković
+country=Croatia
+mobile=+385951974234
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+anniversary=19870204
+
+[703]
+name=Tomislav Brandt
+mobile=+385912527309
+
+[704]
+name=Tomislav Hađina
+mobile=+385 92 236 4633
+
+[705]
+name=brg Tomislav Kovačić
+mobile=+385 98 925 8118
+
+[706]
+name=Tomislav Lažeta
+mobile=0955240343
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[707]
+name=Tomislav Periš
+mobile=098 303 459
+
+[708]
+name=Tomislav Pušnik
+email=topusnik@gmail.com
+
+[709]
+name=Tomislav Samoborec
+mobile=+385 98 876 749
+
+[710]
+name=Tomislav Šoša
+phone=+38598598864
+
+[711]
+name=Tomislav Vuko
+
+[712]
+name=Tomislav Žordić
+mobile=+38598883960
+
+[713]
+name=Tomo
+mobile=+385 92 133 0628
+notes=Vozač kamiona Opuzen
+
+[714]
+name=Tomo Dolić
+mobile=098 191 4322
+
+[715]
+name=Tomo Grbić
+mobile=095-888-8454
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[716]
+name=Tomo Mandić
+mobile=098 514 315
+
+[717]
+name=Tonci Bilić
+mobile=+385 95 814 0377
+
+[718]
+name=Tonci Mirat
+mobile=098422054
+
+[719]
+name=Toni Jagnjić
+mobile=098-179-1549
+
+[720]
+name=Toni Jerenić
+mobile=095 501 5892
+
+[721]
+name=Trevor Russell
+mobile=+1 530-917-0428
+
+[722]
+name=Turk
+mobile=+385 98 910 1790
+
+[723]
+name=Ugnius Ragauskas (Lithuania)
+notes=FSMC Lithuania
+
+[724]
+name=Ured za poslove sa oružjem
+workphone=014570921
+notes=<sn></sn>\n\n\n
+
+[725]
+name=Urudzbeni Zemunik
+mobile=023 358 061
+
+[726]
+name=Vaclav Skyba
+mobile=+420 775 667 090
+
+[727]
+name=Valentin
+mobile=+41 79 441 24 02
+notes=Swisscon
+
+[728]
+name=Valentina Jakovljević
+mobile=098 916 4233
+
+[729]
+name=Valentina Nemet
+email=nemet.valentina@gmail.com
+mobile=+385 98 876 883
+
+[730]
+name=Valerija Kovač
+mobile=+385 91 987 2562
+
+[731]
+name=Vanja
+mobile=+385 95 390 8738
+
+[732]
+name=Vatrogasni Brod Florija
+mobile=+385 95 378 1000
+
+[733]
+name=Vedran Juničić
+mobile=+385 98 972 5487
+
+[734]
+name=Vedran Majić
+mobile=0912262600
+
+[735]
+name=Vedran Smiljanić
+mobile=098724387
+
+[736]
+name=Vedran Vesanović
+mobile=091 188 3001
+notes=Teret Mljet\, izvođač A1 MUP DVD
+
+[737]
+name=Vedrana (Rister)
+mobile=091 508 6681
+
+[738]
+name=Velimir Bešić
+phone=095-901-9833
+
+[739]
+name=Veselko Bačelić
+mobile=098642180
+
+[740]
+name=Vesna Petrinjak
+email=vesna.petrinjak@gmail.com
+address=13d Miramarska
+city=Zagreb
+zip=10000
+country=Croatia
+mobile=+385989989035
+anniversary=19520529
+
+[741]
+name=Vesna Trepšić
+mobile=+385958268626
+
+[742]
+name=Veterinarska stanica Buba
+workphone=013771761
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[743]
+name=Vicko Vrgoč
+mobile=0915842745
+
+[744]
+name=Vigor Maštruko
+mobile=+385 99 354 4905
+
+[745]
+name=Viktor Hlavaćek
+mobile=0981669703
+
+[746]
+name=Vinka
+mobile=+385 98 808 359
+
+[747]
+name=Vinko Grgić
+mobile=+385 99 213 3836
+
+[748]
+name=Vinko Mateljan
+mobile=0915069960
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[749]
+name=Visnja Livajic Pezer
+mobile=+385915349000
+
+[750]
+name=Vitali servis
+workphone=021533523
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[751]
+name=Vjekoslav Damjanović
+email=chika.niki@gmail.com,chikaniki@gmail.com
+address=25 Kneza Novaka Krbavskog
+city=Zadar
+country=Croatia
+mobile=+385992605166
+notes=Zaba 3221674462<HTCData><!-- Please do not modify -->\n<Favorite>actio
+anniversary=19840314
+
+[752]
+name=Vjekoslav Pavlović
+email=vjeko1976@gmail.com
+mobile=098 182 8373
+
+[753]
+name=Vladimir Penić
+mobile=+385 98 137 3435
+
+[754]
+name=Vladimir Pleše
+phone=0442047034
+mobile=098860235
+
+[755]
+name=Vladimir Vetma
+mobile=098 418 646
+
+[756]
+name=Vladimir Zelić
+mobile=0958838983
+
+[757]
+name=Vlado
+mobile=+385 95 902 4277
+
+[758]
+name=Vlado Štefanac
+mobile=+385916654618
+
+[759]
+name=Vlado Zelenika
+mobile=+385 98 136 0840
+
+[760]
+name=Vojarna Vinkovci
+
+[761]
+name=Vojarna Zemunik
+
+[762]
+name=Vozač Jurjević
+mobile=091 561 3988
+
+[763]
+name=Vrsalović
+mobile=091 212 3005
+
+[764]
+name=Vučko
+mobile=091 231 2984
+
+[765]
+name=Žarko Ardalić
+mobile=091 540 8987
+
+[766]
+name=Zavod za zrakoplovnu medicinu
+notes=<HTCData><!-- Please do not modify -->\n<Facebook></Facebook>\n</HTCDa
+
+[767]
+name=Zdenko Burnač
+email=zdenko.burnac@ina.hr
+mobile=+385 91 497 0550
+
+[768]
+name=Zdenko Kačanić
+mobile=098594680
+
+[769]
+name=Zdenko Kramar
+mobile=098 161 0470
+
+[770]
+name=Zdenko Vukojevic
+mobile=+385 98 172 4670
+
+[771]
+name=Zdravka Šimunović
+mobile=098 913 2798
+
+[772]
+name=Zeljana Radman
+mobile=0955049674
+
+[773]
+name=Željka
+
+[774]
+name=Željka Gangur
+mobile=01 4568 886
+notes=POF\, mirovne misije
+
+[775]
+name=Željka Radaković
+mobile=+385 91 527 1613
+
+[776]
+name=Zeljko Badanjak
+phone=091-526-5208
+
+[777]
+name=Željko Domazet
+mobile=098 588 038
+
+[778]
+name=Željko DVD Janjina
+mobile=+385 98 685 819
+
+[779]
+name=Željko Furjanić
+mobile=+385 91 577 6766
+
+[780]
+name=pk Željko Harapin
+phone=+385 98 921 6185
+mobile=+385 99 288 3544
+
+[781]
+name=Zeljko klesar
+mobile=+385 91 541 5502
+
+[782]
+name=Željko Maček
+mobile=+385 97 696 9808
+
+[783]
+name=Željko Marušić
+address=s3 2/1 Kušlanova
+city=Zagreb
+zip=10000
+
+[784]
+name=Zeljko Pralija
+mobile=098 978 1904
+
+[785]
+name=Željko Šporčić
+mobile=0915227317
+
+[786]
+name=Željko Zdjelarević
+email=zeljko.zdjelarevic@gmail.com,zeljko.zdjelarevic@alfakompjuter.hr
+mobile=0989155904
+
+[787]
+name=Zhasmina Hristova
+mobile=+359 88 627 1154
+nick=JJ
+notes=FSMC Bulgaria
+
+[788]
+name=Zlatko Boršić
+mobile=+385 (98) 1835716
+
+[789]
+name=Zlatko Parač
+mobile=+385 91 500 1618
+
+[790]
+name=Zlatko Pekez
+email=kosmos.nekretnine@gmail.com
+mobile=+385981616350
+
+[791]
+name=Zlatko Vrdoljak
+mobile=+385915003563
+
+[792]
+name=Zoltan Matyas
+mobile=+36 30 718 1606
+
+[793]
+name=Zoran Aman
+mobile=+385915000948
+
+[794]
+name=Zoran Bilušić
+address=55 F. Račkog\nDr
+city=Županja
+zip=32270
+country=Croatia
+mobile=091 541 8748
+
+[795]
+name=Zoran Kovačević
+email=zokimorh@gmail.com
+mobile=099 806 5709
+
+[796]
+name=Zoran Maranović
+email=z.maranovic@gmail.com
+mobile=+385 99 390 8581
+notes=<sn></sn>\n\n\n\nGender: Male
+anniversary=19741204
+
+[797]
+name=Zoran Marić
+mobile=+385989343871
+
+[798]
+name=Zoran Veselko
+mobile=+13342331774
+
+[799]
+name=Zoran Veselko
+email=zveselko@gmail.com,zveselko@morh.hr
+mobile=+385 95 396 4987
+anniversary=--1018
+
+[800]
+name=Zorana Jakušić
+mobile=+385 1 4861 812
+
+[801]
+name=Zrinka Vlašić
+email=zrinka.vlasic@air-pannonia.hr
+mobile=+385 98 18 29 163
+
+[802]
+name=Žugaj
+mobile=098 220 083
+
+[803]
+name=Zvonimir Cvetnić
+address=8 Kneza Porina
+city=Velika Gorica
+country=Croatia
+mobile=+385 (98) 704226
+anniversary=19840228
+
+[804]
+name=Zvonimir Dalić
+mobile=0915528802
+
+[805]
+name=Zvonimir Milatović
+mobile=+385 91 508 2558
+
+[806]
+name=Zvonimir Zimić
+email=zvonimir.zimic@optinet.hr
+mobile=0915554047
+

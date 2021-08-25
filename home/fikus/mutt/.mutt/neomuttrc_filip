@@ -1,0 +1,206 @@
+# Protect imap and sendmail passwords with GPG
+source "gpg -d ~/.mutt/passwords.gpg |"
+#source "~/.mutt/.gpg.rc"
+
+# SSL hardening
+set ssl_force_tls=yes
+set ssl_starttls=yes
+set ssl_use_sslv2=no
+set ssl_use_sslv3=no
+set ssl_use_tlsv1=no
+set ssl_use_tlsv1_1=no
+set ssl_use_tlsv1_2=yes
+set ssl_verify_dates=yes
+set ssl_verify_host=yes
+
+# Ask for approval when mail provider certificates change
+unset ssl_usesystemcerts
+set certificate_file=~/.mutt/gmailcerts
+
+# Don't sign!
+set pgp_autosign=yes
+set pgp_default_key=0xD07E74BEC5A4918F
+#set pgp_sign_as=0xD07E74BEC5A4918F
+# Encrypt replies to PGP mails by default
+set pgp_replyencrypt=yes
+# Set this to something comfortable
+set pgp_timeout=1800
+
+set abort_nosubject = no
+set mail_check = 60
+set timeout = 10
+set sort = threads
+set sort = "reverse-date-received"
+set date_format="%y/%m/%d %I:%M%p"
+set signature = "~/.mutt/signature"
+set copy = no
+set editor="nvim +13 +':set textwidth=0' -c 'set nobackup' -c 'set noswapfile' -c 'set nowritebackup' -c 'set tw=72 ft=mail noautoindent'"
+
+# Sidebar Stuff
+set sidebar_visible=no
+set sidebar_width=20
+set sidebar_delim_chars = '/.'
+set sidebar_indent_string = '  '
+set sidebar_divider_char = '|'
+set mail_check_stats
+# Move the highlight to the previous mailbox
+bind index,pager \Cp sidebar-prev
+# Move the highlight to the next mailbox
+bind index,pager \Cn sidebar-next
+# Open the highlighted mailbox
+bind index,pager \Co sidebar-open
+# Move the highlight to the previous page
+# This is useful if you have a LOT of mailboxes.
+bind index,pager <F3> sidebar-page-up
+# Move the highlight to the next page
+# This is useful if you have a LOT of mailboxes.
+bind index,pager <F4> sidebar-page-down
+# Move the highlight to the previous mailbox containing new, or flagged,
+# mail.
+bind index,pager <F5> sidebar-prev
+# Move the highlight to the next mailbox containing new, or flagged, mail.
+bind index,pager <F6> sidebar-next
+# Toggle the visibility of the Sidebar.
+bind index,pager b sidebar-toggle-visible
+# Remap bounce-message function to Ã¢â‚¬Å“BÃ¢â‚¬Â�
+#bind index B bounce-message
+
+set realname = "Filip Petrinjak"
+# Imap settings
+set imap_user = "filip.petrinjak@gmail.com"
+set imap_keepalive=60
+set imap_passive=no
+set imap_check_subscribed=yes
+set imap_idle=yes
+set mail_check=60
+
+# Smtp settings
+set smtp_url = "smtps://filip.petrinjak@smtp.gmail.com"
+set from = "filip.petrinjak@gmail.com"
+
+# Remote gmail folders
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+set record = "+[Gmail]/Sent Mail"
+set trash = "+[Gmail]/Trash"
+
+set header_cache = "~/.mutt/cache/headers"
+#set message_cachedir = "~/.mutt/cache/bodies"
+
+# Mailcap file is used to tell mutt how to open different types of file
+set mailcap_path = "~/.mutt/mailcap"
+
+set rfc2047_parameters = yes
+# Tells Mutt to automatically view files with these mime types
+auto_view text/html
+# Order to try and show multipart emails
+alternative_order text/plain text/enriched text/html
+# Scan the mail for links and let me open them with my browser
+macro index,pager \cb "|urlscan -r 'setsid w3m \"{}\"'"\n
+
+#  Contacts
+
+# When looking for contacts, use this command
+set query_command= "abook --mutt-query '%s'"
+# Add current sender to address book
+macro index,pager  a "<pipe-message>abook --add-email-quiet<return>" "Add this sender to Abook"
+# Auto-complete email addresses by pushing tab
+bind editor <Tab> complete-query
+
+set move = no
+set hostname=hera                         # Name of our local host.
+set hidden_host                           # Hide host details.
+set envelope_from                         # set the envelope-from information
+set reverse_name=yes                      # build From: in the reply based on the To: address (must have
+set alias_file=~/.mutt/aliases            # Keep aliases in this file.
+set postpone=ask-no                       # Ask about postponing.
+set print=ask-yes                         # Ask before printing.
+set delete=no                             # Ask before doing a delete.
+set include                               # Include the message in replies.
+#set sort=threads                          # always sort by thread
+#set sort_aux=date-received                # Sort threads by date received.
+set charset=UTF-8                         # One of those days in England...
+set noallow_8bit                          # 8bit isn't safe via Demon.
+set ascii_chars=yes                       # use ascii characters when displaying trees
+set meta_key=yes                          # allow to use alt or ESC
+set attribution="* %n <%a> [%{%Y-%m-%d %H:%M:%S %Z}]:\n"
+set edit_headers                          # I want to edit the message headers.
+set fast_reply                            # skip initial prompts when replying
+#set nohelp                                # don't show the help line at the top
+#set editor="vim +13 -c 'set nobackup' -c 'set noswapfile' -c 'set nowritebackup' -c 'set tw=72 ft=mail noautoindent'"
+set nomark_old                            # Don't mark unread new msgs as old.
+set nobeep                                # We don't need no beeping software.
+set nosmart_wrap                          # Don't want smart wrapping.
+set nomarkers                             # Don't want any wrap markers.
+set mime_forward                          # Forward message as MIME attachments.
+#set pager_context=3                       # Display 3 lines of context in pager.
+#set pager_index_lines=20
+set nostrict_threads                      # Lets have some fuzzy threading.
+set nopipe_decode                         # Don't decode messages when piping.
+set text_flowed                           # label messages as format-flowed
+set print_command="enscript --font=Times-Roman10 --pretty-print"
+set tilde                                 # Fill out messages with '~'.
+set read_inc=100                          # Read counter ticks every 100 msgs.
+set write_inc=100                         # Write counter ticks every 100 msgs.
+set noconfirmappend                       # Just append, don't hassle me.
+set pager_stop                            # Don't skip msgs on next page.
+
+# Last, but not least, get mutt to display its version on startup.
+push <show-version>
+message-hook '!(~g|~G) ~b"^-----BEGIN\ PGP\ (SIGNED\ )?MESSAGE"' "exec check-traditional-pgp"
+auto_view text/html                       # eg with links --dump
+
+# Default index colors:
+color index yellow default '.*'
+color index_author red default '.*'
+color index_number blue default
+color index_subject cyan default '.*'
+
+# For new mail:
+color index brightyellow black "~N"
+color index_author brightred black "~N"
+color index_subject brightcyan black "~N"
+
+# Header colors:
+color header blue default ".*"
+color header brightmagenta default "^(From)"
+color header brightcyan default "^(Subject)"
+color header brightwhite default "^(CC|BCC)"
+
+mono bold bold
+mono underline underline
+mono indicator reverse
+mono error bold
+color normal default default
+color indicator brightblack white
+color sidebar_highlight red default
+color sidebar_divider brightblack black
+color sidebar_flagged red black
+color sidebar_new green black
+color normal brightyellow default
+color error red default
+color tilde black default
+color message cyan default
+color markers red white
+color attachment white default
+color search brightmagenta default
+color status brightyellow black
+color hdrdefault brightgreen default
+color quoted green default
+color quoted1 blue default
+color quoted2 cyan default
+color quoted3 yellow default
+color quoted4 red default
+color quoted5 brightred default
+color signature brightgreen default
+color bold black default
+color underline black default
+color normal default default
+
+# Macros
+bind index G imap-fetch-mail
+# macro index gd "<change-folder>$postponed<enter>" "go to drafts"
+# macro index gs "<change-folder>$record<enter>" "go to sent"
+# macro index gi "<change-folder>$spoolfile<Enter>" "go to inbox"
+# macro index gt "<change-folder>$trash<enter>" "go to trash""
