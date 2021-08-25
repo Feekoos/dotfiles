@@ -20,3 +20,5 @@ myfind () {
 #if [ -f /etc/bash_completion ]; then
 #	  source /etc/bash_completion
 #fi
+
+export PASSWORD_STORE_GPG_OPTS='--no-throw-keyids'
