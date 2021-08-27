@@ -1,5 +1,6 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/fikus/git/General
 - /home/fikus/git/dotfiles_freebsd
+- /home/fikus/git/bin
+- /home/fikus/git/General
 startuppopupversion: 5
