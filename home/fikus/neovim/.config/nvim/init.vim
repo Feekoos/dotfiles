@@ -2,7 +2,9 @@
 set nocompatible
 
 " Enable type file detection. Vim will be able to try to detect the type of file in use.
-filetype on
+filetype off
+
+set shell=/bin/bash
 
 " Enable plugins and load plugin for the detected file type.
 filetype plugin on
