@@ -1,8 +1,14 @@
+colorscheme iceberg
+"colorscheme gruvbox
+"colorscheme happy_hacking
+"colorscheme solarized8
+"colorscheme molokai
+
 " Disable compatibility with vi which can cause unexpected issues.
 set nocompatible
 
 " Enable type file detection. Vim will be able to try to detect the type of file in use.
-filetype off
+filetype on
 
 set shell=/bin/bash
 
@@ -80,13 +86,12 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
 " PLUGINS ---------------------------------------------------------------- {{{
 
-set rtp+=~/.config/nvim/plugins/Vundle.vim
-call vundle#begin('~/.config/nvim/plugins')
+call plug#begin(has('nvim') ? stdpath('data') . '/plugged' : '~/.config/nvim/plugged')
 
-Plugin 'VundleVim/Vundle.vim'
+Plug 'flazz/vim-colorschemes'
 
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 
 " Airline
 let g:airline#extensions#tabline#enabled = 1
@@ -96,7 +101,7 @@ let g:airline_theme='solarized'
 let g:airline_solarized_bg='dark'  
 
 " https://github.com/preservim/nerdtree
-Plugin 'preservim/nerdtree'
+Plug 'preservim/nerdtree'
 
 nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
@@ -128,10 +133,7 @@ autocmd BufWinEnter * silent NERDTreeMirror
 let NERDTreeIgnore=['\.git$', '\.jpg$', '\.mp4$', '\.ogg$', '\.iso$', '\.pdf$', '\.pyc$', '\.odt$', '\.png$', '\.gif$', '\.db$']
 
 " All of your Plugins must be added before the following line
-call vundle#end()            " required
-filetype plugin indent on    " required
-
-" Put your non-Plugin stuff after this line
+call plug#end()
 
 " }}}
 
@@ -193,7 +195,6 @@ set pastetoggle=<F4>
 
 
 " }}}
-
 
 " VIMSCRIPT -------------------------------------------------------------- {{{
 
@@ -264,7 +265,6 @@ if has('gui_running')
 endif
 
 " }}}
-
 
 " STATUS LINE ------------------------------------------------------------ {{{
 
