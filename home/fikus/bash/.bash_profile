@@ -1,51 +1,38 @@
-# PATH variable
-export PATH=$PATH:/home/fikus/git/bin
-
-# Default editor
+export PATH=$PATH:~/git/bin
 export EDITOR=nvim
-
-# Custom bash prompt via kirsle.net/wizards/ps1.html
-export PS1="\[$(tput bold)\]\[$(tput setaf 2)\][\u@\h \W]\\$ \[$(tput sgr0)\]"
 export BROWSER=/usr/local/bin/w3m
+export SSH_ENV="$HOME/.ssh/agent-environment"
+export PASSWORD_STORE_GPG_OPTS='--no-throw-keyids'
 
-# Aliases
-source .bash_aliases
+source ~/.bash_aliases
+source ~/.bash_functions
 
-# Functions
-myfind () {
-	find ./ -iname $1 -print
-}
+bash_prompt
+
+# History
+HISTTIMEFORMAT="%F %T " # add time to bash history
+HISTCONTROL=ignoredups # ignore duplicates in history
+HISTSIZE=2000 # set no of lines in history
+HISTFILESIZE=2000   # set history file max size
+shopt -s histappend # append to history
+
+# Misc
+set -o vi # use vim commands in bash
+
+# Define colors
+blk='\[\033[01;30m\]'   # Black
+red='\[\033[01;31m\]'   # Red
+grn='\[\033[01;32m\]'   # Green
+ylw='\[\033[01;33m\]'   # Yellow
+blu='\[\033[01;34m\]'   # Blue
+pur='\[\033[01;35m\]'   # Purple
+cyn='\[\033[01;36m\]'   # Cyan
+wht='\[\033[01;37m\]'   # White
+clr='\[\033[00m\]'      # Reset
 
 # pkg install bash-completion 
 [[ $PS1 && -f /usr/local/share/bash-completion/bash_completion.sh ]] && \
 	source /usr/local/share/bash-completion/bash_completion.sh
 
-#if [ -f /etc/bash_completion ]; then
-#	  source /etc/bash_completion
-#fi
-
-export PASSWORD_STORE_GPG_OPTS='--no-throw-keyids'
-
 # SSH AGENT SETUP
-SSH_ENV="$HOME/.ssh/agent-environment"
-
-function start_agent {
-    echo "Initialising new SSH agent..."
-    /usr/bin/ssh-agent | sed 's/^echo/#echo/' > "${SSH_ENV}"
-    echo succeeded
-    chmod 600 "${SSH_ENV}"
-    . "${SSH_ENV}" > /dev/null
-    /usr/bin/ssh-add;
-}
-
-# Source SSH settings, if applicable
-
-if [ -f "${SSH_ENV}" ]; then
-    . "${SSH_ENV}" > /dev/null
-    #ps ${SSH_AGENT_PID} doesn't work under cywgin
-    ps -ef | grep ${SSH_AGENT_PID} | grep ssh-agent$ > /dev/null || {
-        start_agent;
-    }
-else
-    start_agent;
-fi
+source_ssh_settings
