@@ -57,7 +57,7 @@ alias nov='cal -m 11'
 alias dec='cal -m 12'
 
 # ls aliases
-alias ls='ls --color=auto'
+alias ls='ls --color'
 alias la='ls -A'
 alias l='ls -CF'
 alias ll='ls -alF'
